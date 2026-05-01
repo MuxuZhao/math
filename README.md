@@ -1,2 +1,2 @@
 # math
-private math related repo
+personal math related repo
